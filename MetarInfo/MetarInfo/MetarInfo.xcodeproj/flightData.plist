@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item</key>
+	<dict>
+		<key>row0</key>
+		<string>AdicionarVoo1</string>
+		<key>row1</key>
+		<string>AdicionarVoo2</string>
+		<key>row2</key>
+		<string>AdicionarVoo3</string>
+		<key>row3</key>
+		<string>AdicionarVoo4</string>
+		<key>row4</key>
+		<string>AdicionarVoo5</string>
+		<key>row5</key>
+		<string>AdicionarVoo6</string>
+		<key>row6</key>
+		<string>AdicionarVoo7</string>
+		<key>row7</key>
+		<string>AdicionarVoo8</string>
+		<key>row8</key>
+		<string>AdicionarVoo9</string>
+		<key>row9</key>
+		<string>AdicionarVoo10</string>
+	</dict>
+</dict>
+</plist>
